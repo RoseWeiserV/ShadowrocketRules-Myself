@@ -3,9 +3,25 @@
 # REPO: https://github.com/RoseWeiserV/ShadowrocketRules-Myself
 # UPDATED: 2026-01-19
 # DESCRIPTION: 这个文件用于拦截一些成人内容的网站
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
 
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,kdw019.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-KEYWORD,dmm
+DOMAIN-SUFFIX,me-gay.com
+DOMAIN-SUFFIX,sexgayjapan.com
+DOMAIN-SUFFIX,gaypornarchive.com
+DOMAIN-SUFFIX,gayporntube.tv
+DOMAIN-SUFFIX,darknight.blog
 DOMAIN-SUFFIX, missav.ws
 DOMAIN-SUFFIX, missav.ai
 DOMAIN-SUFFIX, missav.live
+DOMAIN-SUFFIX, 91cg1.com
+DOMAIN-SUFFIX, 91cg8.com
+DOMAIN-SUFFIX, 91cg.com
+DOMAIN-SUFFIX, 51cg1.com
