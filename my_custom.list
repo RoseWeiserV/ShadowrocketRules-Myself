@@ -1,0 +1,10 @@
+# NAME: Supplementary Rules
+# AUTHOR: Dianna
+# REPO: https://github.com/yourname/rules
+# UPDATED: 2026-01-19
+# DESCRIPTION: 一些自己补充的规则，用于一些自己常用网站
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+
+DOMAIN-SUFFIX, pincong.rocks
+DOMAIN-SUFFIX, ipleak.net
