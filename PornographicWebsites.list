@@ -2,9 +2,9 @@
 # AUTHOR: Dianna
 # REPO: https://github.com/RoseWeiserV/ShadowrocketRules-Myself
 # UPDATED: 2026-01-19
-# DESCRIPTION: 一些自己补充的规则，用于一些自己常用网站
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# DESCRIPTION: 这个文件用于拦截一些成人内容的网站
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
 
 DOMAIN-SUFFIX, missav.ws
 DOMAIN-SUFFIX, missav.ai
