@@ -3,11 +3,14 @@
 # REPO: https://github.com/RoseWeiserV/ShadowrocketRules-Myself
 # UPDATED: 2026-01-19
 # DESCRIPTION: 一些自己补充的规则，用于一些自己常用网站
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# DOMAIN-SUFFIX: 4
+# DOMAIN-KEYWORD: 2
+# TOTAL: 6
+
+DOMAIN-KEYWORD, kali
+DOMAIN-KEYWORD, jetbrains
 
 DOMAIN-SUFFIX, pincong.rocks
 DOMAIN-SUFFIX, ipleak.net
 DOMAIN-SUFFIX, archive.kali.org
 DOMAIN-SUFFIX, jetbrains.com
-DOMAIN-KEYWORD, kali
